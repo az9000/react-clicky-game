@@ -1,0 +1,232 @@
+[
+    {
+        "id": 1,
+        "image": "images/Aiden.png",
+        "name": "Aiden"
+    },
+    {
+        "id": 2,
+        "image": "images/Ali.png",
+        "name": "Ali"
+    },
+    {
+        "id": 3,
+        "image": "images/ALIEN.png",
+        "name": "Alien"
+    },
+    {
+        "id": 4,
+        "image": "images/Ambition_gremlin.png",
+        "name": "Ambition Gremlin"
+    },
+    {
+        "id": 5,
+        "image": "images/Andrew_Glouberman.png",
+        "name": "Andrew Glouberman"
+    },
+    {
+        "id": 6,
+        "image": "images/Anxiety_Armadillo.png",
+        "name": "Anxiety Armadillo"
+    },
+    {
+        "id": 7,
+        "image": "images/Caleb.png",
+        "name": "Caleb"
+    },
+    {
+        "id": 8,
+        "image": "images/coach-steve.png",
+        "name": "Coach Steve"
+    },
+    {
+        "id": 9,
+        "image": "images/Connie.png",
+        "name": "Connie"
+    },
+    {
+        "id": 10,
+        "image": "images/daniel.jpg",
+        "name": "Daniel"
+    },
+    {
+        "id": 11,
+        "image": "images/Depression-Kitty.png",
+        "name": "Depression Kitty"
+    },
+    {
+        "id": 12,
+        "image": "images/Detective.png",
+        "name": "Detective"
+    },
+    {
+        "id": 13,
+        "image": "images/devon.jpg",
+        "name": "DeVon"
+    },
+    {
+        "id": 14,
+        "image": "images/Dina.png",
+        "name": "Dina"
+    },
+    {
+        "id": 15,
+        "image": "images/Dna_ape.png",
+        "name": "DNA Ape"
+    },
+    {
+        "id": 16,
+        "image": "images/duke_ellington.png",
+        "name": "Duke Ellington"
+    },
+    {
+        "id": 17,
+        "image": "images/Dylan.png",
+        "name": "Dylan"
+    },
+    {
+        "id": 18,
+        "image": "images/Elliot.png",
+        "name": "Elliot"
+    },
+    {
+        "id": 19,
+        "image": "images/FeaturingLudacris.png",
+        "name": "Ludacris"
+    },
+    {
+        "id": 20,
+        "image": "images/gavin.jpg",
+        "name": "Gavin"
+    },
+    {
+        "id": 21,
+        "image": "images/Gina.png",
+        "name": "Gina"
+    },
+    {
+        "id": 22,
+        "image": "images/Greg_Glaser.png",
+        "name": "Greg Glaser"
+    },
+    {
+        "id": 23,
+        "image": "images/Guy_Bilzerian.png",
+        "name": "Guy Bilzerian"
+    },
+    {
+        "id": 24,
+        "image": "images/Intellect.png",
+        "name": "Intellect"
+    },
+    {
+        "id": 25,
+        "image": "images/Jay.jpg",
+        "name": "Jay Bilzerian"
+    },
+    {
+        "id": 26,
+        "image": "images/JG.jpg",
+        "name": "Jessie Glaser"
+    },
+    {
+        "id": 27,
+        "image": "images/Judd.png",
+        "name": "Judd"
+    },
+    {
+        "id": 28,
+        "image": "images/Junedevin.jpg",
+        "name": "Devin"
+    },
+    {
+        "id": 29,
+        "image": "images/Lars.png",
+        "name": "Lars"
+    },
+    {
+        "id": 30,
+        "image": "images/LeahProfile.jpg",
+        "name": "Leah"
+    },
+    {
+        "id": 31,
+        "image": "images/lola.png",
+        "name": "Lola Skumpy"
+    },
+    {
+        "id": 32,
+        "image": "images/marty.jpg",
+        "name": "Marty Glouberman"
+    },
+    {
+        "id": 33,
+        "image": "images/Matthew.png",
+        "name": "Matthew"
+    },
+    {
+        "id": 34,
+        "image": "images/Maurice.png",
+        "name": "Maurice"
+    },
+    {
+        "id": 35,
+        "image": "images/Miss_Benitez_ibx.png",
+        "name": "Miss Benitez"
+    },
+    {
+        "id": 36,
+        "image": "images/Missy_1.png",
+        "name": "Missy Foreman-Greenwald"
+    },
+    {
+        "id": 37,
+        "image": "images/Mrlizer.jpg",
+        "name": "Mr. Lizer"
+    },
+    {
+        "id": 38,
+        "image": "images/Nick.png",
+        "name": "Nick Birch"
+    },
+    {
+        "id": 39,
+        "image": "images/Olivia.png",
+        "name": "Olivia"
+    },
+    {
+        "id": 40,
+        "image": "images/Ricky.png",
+        "name": "Ricky"
+    },
+    {
+        "id": 41,
+        "image": "images/Roland.png",
+        "name": "Roland"
+    },
+    {
+        "id": 42,
+        "image": "images/Shame_Wizard.jpg",
+        "name": "Shame Wizard"
+    },
+    {
+        "id": 44,
+        "image": "images/shannon.png",
+        "name": "Shannon Glaser"
+    },
+    {
+        "id": 45,
+        "image": "images/Susan.png",
+        "name": "Susan"
+    },
+    {
+        "id": 46,
+        "image": "images/Tallulah_ibx.png",
+        "name": "Tallulah Levine"
+    },
+    {
+        "id": 47,
+        "image": "images/Tyler.jpg",
+        "name": "Tyler"
+    }
+]
