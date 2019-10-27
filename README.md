@@ -21,3 +21,16 @@ The game will render 12 different character images from the great [Netflix](http
 
 ## Where to play
 [Clicky Game!](https://az9000.github.io/react-clicky-game/)
+
+## Technologies used
+1. React
+1. React DOM
+1. npm
+1. Bootstrap
+
+## Challenges
+This was a challenging assignment because managing states, and interaction between the different components was not easy. I had originally written this app using only 2 components, bt decided that I should be using multiple components, and pass states, and props, between the different components. The outcome was very rewarding for me. I was able to provide UI updates to the Header component, as well as receive UI events from a different component. But I'm sure there's a better way to do this!
+
+
+## Author
+Fawzi Alami
